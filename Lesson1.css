@@ -1,0 +1,9 @@
+.p5 {
+    font-size: 20px;
+    font-family: Arial;
+}
+button {
+    background-color: Yellow;
+    border: none;
+    cursor: pointer;
+}
